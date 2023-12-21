@@ -5,6 +5,7 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 body {
@@ -36,6 +37,7 @@ y proporcionesNOTA:MEJORAR LA CALIDAD DE LA IMAGEN*/
     display: flex;
     position: absolute;
     margin-top: -240px;
+    margin-left: 30px;
 }
 
 .btn-light {
